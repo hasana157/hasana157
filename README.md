@@ -1,161 +1,172 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6e40c9&height=200&section=header&text=Hasana%20Zahid&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20ML%20Practitioner%20%7C%20Python%20Developer&descAlignY=55&descAlign=50" width="100%"/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6e40c9&center=true&vCenter=true&width=700&lines=Building+real-world+AI+%26+ML+solutions+%F0%9F%A4%96;End-to-end+ML+pipelines+from+EDA+to+deployment;Passionate+about+using+AI+for+social+good+%F0%9F%8C%8D)](https://git.io/typing-svg)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hasana-zahid-605543310/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hasana157)
-[![Portfolio](https://img.shields.io/badge/Portfolio-6e40c9?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/hasana157/hasana-zahid_portfolio)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hasanazahid842@gmail.com)
-[![Coursera](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=coursera&logoColor=white)](https://www.coursera.org/user/3ab2348993f446225c43013dbfa1f14b)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Hasana%20Zahid&fontSize=52&fontColor=e8d5ff&animation=fadeIn&fontAlignY=38&desc=AI%20%2F%20ML%20Engineer%20%7C%20Computer%20Vision%20%7C%20Agentic%20AI%20%7C%20Applied%20ML&descAlignY=58&descSize=16&descColor=b39ddb" width="100%"/>
 
 </div>
 
 ---
-
-## 👩‍💻 About Me
-
-I'm **Hasana Zahid**, a BS Artificial Intelligence student at **COMSATS University Islamabad**, building end-to-end machine learning systems that solve real-world problems. I care deeply about applying AI to environmental and social challenges — from predicting air pollution to forecasting crop yields.
-
-- 🎓 **BS Artificial Intelligence** — COMSATS University Islamabad (2024–Present)
-- 🔭 Currently working on: **ML internship projects** spanning classical ML, NLP, and Computer Vision
-- 🌱 Deepening my knowledge in: **Deep Learning, MLOps, and LLM applications**
-- 🎯 Goal: Land a **competitive AI/ML internship** and contribute to impactful open-source projects
-- 📍 Based in **Islamabad, Pakistan**
-
----
-
-## 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🌫️ PM2.5 Air Quality Prediction System
-End-to-end ML pipeline predicting Beijing's hourly air pollution levels (43,824 samples). Built ANN model achieving **R² of 0.75–0.80**, outperforming Linear Regression baseline. Deployed with an interactive **Streamlit dashboard**.
-
-**Tech:** Python · Keras · Streamlit · Pandas · Scikit-learn
-
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/hasana157/air-quality-prediction-system-pm25)
-
-</td>
-<td width="50%" valign="top">
-
-### 🌾 Crop Yield Prediction System
-Predictive ML system for agricultural yield forecasting. Incorporates feature engineering and model comparison to support data-driven farming decisions.
-
-**Tech:** Python · Scikit-learn · Pandas · Matplotlib
-
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/hasana157/Crop-Yield-Prediction-System)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🤖 ML Internship Portfolio
-7 end-to-end ML projects: House Price Prediction, Credit Default, Customer Churn, Fraud Detection, Insurance Premium Prediction, Sentiment Analysis, and Spam Email Classifier (NLP). Full EDA → modeling → evaluation workflow.
-
-**Tech:** Python · Scikit-learn · NLP · MLflow · Jupyter
-
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/hasana157/machine-learning-internship-projects)
-
-</td>
-<td width="50%" valign="top">
-
-### ⏱️ Focusary — Pomodoro App
-A productivity app built around the Pomodoro technique to help users manage focus sessions and breaks efficiently.
-
-**Tech:** Python · GUI Frameworks
-
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/hasana157/Focusary-a-Pomodoro-app)
-
-</td>
-</tr>
-</table>
-
----
-
-## 🛠️ Tech Stack
-
-**AI / Machine Learning**
-
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-
-**Data & Visualization**
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FE4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-
-**MLOps & Tools**
-
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-**Programming Languages**
-
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
----
-
-## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=hasana157&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasana157&theme=tokyonight&hide_border=true&layout=compact&count_private=true" height="165"/>
+### `Third-year BS AI student · 6 deployed projects · Metrics-driven builder`
 
-<img src="https://streak-stats.demolab.com/?user=hasana157&theme=tokyonight&hide_border=true" height="165"/>
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=hasana157&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=6)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hasana%20Zahid-7c4dff?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hasana-zahid-605543310/)
+[![GitHub](https://img.shields.io/badge/GitHub-hasana157-1a1a2e?style=for-the-badge&logo=github&logoColor=e8d5ff)](https://github.com/hasana157)
+[![Email](https://img.shields.io/badge/Email-hasanazahid842%40gmail.com-7c4dff?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hasanazahid842@gmail.com)
 
 </div>
 
 ---
 
-## 📚 Currently Learning
+## ◈ At a Glance
 
-```python
-current_focus = {
-    "deepening": ["Deep Learning architectures", "Transformers & Attention"],
-    "exploring": ["LangChain", "RAG pipelines", "MLOps with Docker"],
-    "practicing": ["Kaggle competitions", "Daily coding problems"],
-    "reading":    ["Hands-On ML — Aurélien Géron", "Deep Learning — Goodfellow"]
-}
+```
+🎓  BS Artificial Intelligence · COMSATS University Islamabad · CGPA 3.55 / 4.00
+📍  Islamabad, Pakistan
+🔭  Focus: Computer Vision · Agentic AI · Time-Series · Full-Stack AI
+🎯  Seeking: AI/ML Internship · Summer 2026
 ```
 
+I build **end-to-end ML systems** — trained, evaluated, deployed, and documented.
+Not notebooks. Projects with real pipelines, real metrics, and real demos.
+
 ---
 
-## 🤝 Let's Connect
+## ◈ Featured Projects
 
-I'm actively looking for **AI/ML internship opportunities**. If you're working on something interesting in AI, environmental tech, or data science — let's talk!
+### 🚦 Smart Traffic AI — Helmet Violation Detection
+> *Computer Vision · YOLOv8 · OpenCV · EasyOCR · Streamlit*
+
+Dual YOLOv8 pipeline for detecting motorcycle helmet violations with license plate extraction, CSV logging, and a live Streamlit interface.
+
+| Metric | Score |
+|---|---|
+| mAP50 | **0.961** |
+| mAP50-95 | **0.757** |
+| Precision | **0.931** |
+| Recall | **0.943** |
+| Inference Speed | **~350 FPS** |
+
+[![Repo](https://img.shields.io/badge/View%20Repository-1a1a2e?style=for-the-badge&logo=github&logoColor=e8d5ff)](https://github.com/hasana157/smart-traffic-ai-helmet-detection)
+
+---
+
+### 📡 SentinelFlow — IoT Sensor Anomaly Detection
+> *Unsupervised ML · Isolation Forest · Time-Series · Streamlit*
+
+Unsupervised anomaly detection dashboard for multi-sensor IoT streams — with rolling/lag feature engineering, configurable thresholds, and custom CSV upload.
+
+| Metric | Score |
+|---|---|
+| Precision | **0.91** |
+| Recall | **0.87** |
+| F1 Score | **0.89** |
+| AUC-ROC | **0.94** |
+
+[![Repo](https://img.shields.io/badge/View%20Repository-1a1a2e?style=for-the-badge&logo=github&logoColor=e8d5ff)](https://github.com/hasana157/SentinelFlow-IoT-Anomaly-Detection)
+
+---
+
+### 🤖 TriageFlow AI — Agentic Patient Triage System
+> *LangGraph · FastAPI · ReAct Agents · Flutter UI*
+
+Agentic workflow for emergency triage — LangGraph-based reasoning, safety-first deterministic priority rules, missing-data and contradiction handling, FastAPI backend, Flutter UI skeleton.
+
+Built during the **NCAI & Quarkamp Agentic AI Bootcamp 2026**.
+
+[![Repo](https://img.shields.io/badge/View%20Repository-1a1a2e?style=for-the-badge&logo=github&logoColor=e8d5ff)](https://github.com/hasana157/patient-triage-agent)
+
+---
+
+### 🌍 Study Abroad Assistant — Academic Web App
+> *React · PHP 8 · MySQL · REST APIs · Authentication*
+
+Full-stack student/admin portal with university search, scholarship management, shortlisting, roadmaps, protected routes, and admin CRUD — all integrated with a PHP API and MySQL backend.
+
+[![Repo](https://img.shields.io/badge/View%20Repository-1a1a2e?style=for-the-badge&logo=github&logoColor=e8d5ff)](https://github.com/hasana157/saa-project)
+
+---
+
+### 🌾 Crop Yield Prediction System
+> *Random Forest · ANN · Scikit-learn · Streamlit*
+
+ML pipeline on 56,717 FAO records — model comparison, batch forecasting dashboard, and EDA.
+
+| Model | R² | RMSE |
+|---|---|---|
+| Random Forest (optimized) | **0.945** | **~8,945** |
+
+[![Repo](https://img.shields.io/badge/View%20Repository-1a1a2e?style=for-the-badge&logo=github&logoColor=e8d5ff)](https://github.com/hasana157/Crop-Yield-Prediction-System)
+
+---
+
+### 🌫️ PM2.5 Air Quality Prediction System
+> *ANN · Linear Regression · Keras · Streamlit*
+
+Beijing PM2.5 hourly forecasting with chronological split, lag/rolling window features, model comparison, and a Streamlit visualization dashboard.
+
+| Model | R² | RMSE |
+|---|---|---|
+| ANN | **0.78** | **27** |
+
+[![Repo](https://img.shields.io/badge/View%20Repository-1a1a2e?style=for-the-badge&logo=github&logoColor=e8d5ff)](https://github.com/hasana157/air-quality-prediction-system-pm25)
+
+---
+
+## ◈ Technical Skills
+
+**AI & Machine Learning**
+`Python` `Scikit-learn` `TensorFlow` `Keras` `YOLOv8` `OpenCV` `EasyOCR` `CNNs` `Random Forest` `Isolation Forest` `Linear Regression`
+
+**Agentic AI & LLMs**
+`LangGraph` `RAG` `ReAct Agents` `Prompt Engineering` `LLM Workflow Design` `FastAPI`
+
+**Data & Visualization**
+`Pandas` `NumPy` `Matplotlib` `Streamlit`
+
+**Web & Backend**
+`React` `PHP 8` `MySQL` `REST APIs` `Git` `GitHub`
+
+**Other**
+`Java` `SQL` `Flutter (UI skeleton)`
+
+---
+
+## ◈ Certifications
+
+| Certification | Provider |
+|---|---|
+| Machine Learning Specialization | DeepLearning.AI |
+| Deep Learning Specialization | DeepLearning.AI |
+| Machine Learning with Python | IBM / Coursera |
+| Data Analysis with Python | IBM / Coursera |
+| Python for Data Science | IBM / Coursera |
+| AI Essentials | Google |
+| Agentic AI Bootcamp 2026 | NCAI & Quarkamp |
+
+---
+
+## ◈ More Repositories
+
+| Repository | About |
+|---|---|
+| [machine-learning-internship-projects](https://github.com/hasana157/machine-learning-internship-projects) | ML practice projects — supervised learning, NLP |
+| [python-foundations-learning-journey](https://github.com/hasana157/python-foundations-learning-journey) | Structured Python practice notebooks |
+| [Focusary-a-Pomodoro-app](https://github.com/hasana157/Focusary-a-Pomodoro-app) | Java Swing productivity app |
+
+---
+
+## ◈ Open To
+
+- AI / ML internship opportunities (Summer 2026)
+- Agentic AI and AI automation roles
+- Academic collaborations and project-based learning
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hasana-zahid-605543310/)
-[![Email](https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hasanazahid842@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-7c4dff?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hasana-zahid-605543310/)
+&nbsp;
+[![Email](https://img.shields.io/badge/Send%20an%20Email-1a1a2e?style=for-the-badge&logo=gmail&logoColor=e8d5ff)](mailto:hasanazahid842@gmail.com)
 
 </div>
 
@@ -163,10 +174,8 @@ I'm actively looking for **AI/ML internship opportunities**. If you're working o
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6e40c9&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=100&section=footer" width="100%"/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=hasana157&color=6e40c9&style=flat-square)
-
-*"The goal is to turn data into information, and information into insight." — Carly Fiorina*
+<sub>Every number on this page is real. Every project ships. Every metric was measured.</sub>
 
 </div>
