@@ -1,121 +1,194 @@
-# Hasana Zahid
-
-**AI/ML Engineer | Computer Vision | Agentic AI | Applied ML**
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hasana-zahid-605543310/)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/hasana157)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:hasanazahid842@gmail.com)
+# 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=7C3AED&background=0A0E27&center=true&vCenter=true&width=600&height=60&lines=AI%2FML+Engineer;Computer+Vision;Agentic+AI;Applied+ML" alt="Typing SVG" />
+</div>
 
 ---
 
-## About
+<div align="center">
 
-Third-year BS AI student building **production-ready ML systems** with measurable impact. Focused on computer vision, agentic AI, and real-world deployment — not notebooks, but end-to-end pipelines with documented metrics and live demos.
+### 🎯 Building Production ML Systems That Ship
 
----
+*Third-year BS AI student | Metrics-driven builder | End-to-end pipelines*
 
-## Core Competencies
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hasana%20Zahid-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000)](https://www.linkedin.com/in/hasana-zahid-605543310/)
+[![GitHub](https://img.shields.io/badge/GitHub-@hasana157-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)](https://github.com/hasana157)
+[![Email](https://img.shields.io/badge/Email-hasanazahid842%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000)](mailto:hasanazahid842@gmail.com)
 
-**Machine Learning & AI**  
-Python · TensorFlow · Keras · YOLOv8 · OpenCV · Scikit-learn · LangGraph · RAG · Agents
-
-**Data & Engineering**  
-Pandas · NumPy · Streamlit · FastAPI · REST APIs · SQL · Git
-
-**Additional**  
-React · PHP 8 · MySQL · Java
+</div>
 
 ---
 
-## Featured Projects
+## 🚀 Featured Projects
 
-### 🚦 **Smart Traffic AI** – Helmet Violation Detection
-Real-time computer vision system for traffic enforcement
+<table>
+<tr>
+<td width="50%">
 
-- **Tech**: YOLOv8 · OpenCV · EasyOCR · Streamlit
-- **What it does**: Detects vehicles, identifies riders, classifies helmet compliance, extracts license plates
-- **Impact**: Production-ready detection pipeline with real-time inference
-- **Repository**: [github.com/hasana157/smart-traffic-ai-helmet-detection](https://github.com/hasana157/smart-traffic-ai-helmet-detection)
+### 🚦 Smart Traffic AI
+**Helmet Violation Detection**
+
+Real-time computer vision system for traffic enforcement. YOLOv8-based detection pipeline with license plate recognition and compliance classification.
+
+**Stack:** YOLOv8 · OpenCV · EasyOCR · Streamlit
+
+**Highlights:**
+- Real-time vehicle & rider detection
+- Helmet compliance classification
+- License plate extraction & OCR
+- Production-ready pipeline
+
+[📂 View Repository →](https://github.com/hasana157/smart-traffic-ai-helmet-detection)
+
+</td>
+<td width="50%">
+
+### 🤖 TriageFlow AI
+**Agentic Patient Triage System**
+
+Multi-step reasoning agent for emergency room automation. LangGraph-based workflow with deterministic safety rules, missing-data handling, and structured outputs.
+
+**Stack:** LangGraph · FastAPI · ReAct Agents · Flutter
+
+**Highlights:**
+- LangGraph agentic reasoning
+- Safety-first rule engine
+- Contradiction handling
+- Production FastAPI backend
+
+[📂 View Repository →](https://github.com/hasana157/patient-triage-agent)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 📡 SentinelFlow
+**IoT Sensor Anomaly Detection**
+
+Unsupervised learning system for detecting sensor failures. Real-time anomaly detection dashboard with time-series analysis and threshold optimization.
+
+**Stack:** Isolation Forest · Time-Series · Streamlit
+
+**Highlights:**
+- Real-time anomaly detection
+- Multi-sensor data ingestion
+- Trend visualization
+- Automated alerting
+
+[📂 View Repository →](https://github.com/hasana157/SentinelFlow-IoT-Anomaly-Detection)
+
+</td>
+<td width="50%">
+
+### 🌾 Crop Yield Prediction
+**Agricultural Forecasting System**
+
+Supervised learning for crop yield prediction. Compares Random Forest vs ANN with seasonal validation and RMSE/MAE tracking.
+
+**Stack:** Random Forest · ANN · Scikit-learn · Streamlit
+
+**Highlights:**
+- Multi-model comparison
+- Seasonal cross-validation
+- Feature importance analysis
+- Production Streamlit app
+
+[📂 View Repository →](https://github.com/hasana157/Crop-Yield-Prediction-System)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🌫️ PM2.5 Air Quality Prediction
+**Time-Series Forecasting**
+
+24–72 hour air pollution forecasting. ANN & Linear Regression with seasonal split validation and continuous RMSE tracking.
+
+**Stack:** ANN · Linear Regression · Keras · Streamlit
+
+**Highlights:**
+- Multi-horizon forecasting
+- Seasonal data handling
+- Cross-validation metrics
+- Live prediction dashboard
+
+[📂 View Repository →](https://github.com/hasana157/air-quality-prediction-system-pm25)
+
+</td>
+<td width="50%">
+
+### 📚 Study Abroad Assistant
+**Full-Stack Web Application**
+
+User authentication, university database, program matching, and application tracking. Secure REST API backend with React frontend.
+
+**Stack:** React · PHP 8 · MySQL · REST APIs
+
+**Highlights:**
+- Secure authentication
+- Relational data model
+- Full-stack architecture
+- Production deployment
+
+[📂 View Repository →](https://github.com/hasana157/saa-project)
+
+</td>
+</tr>
+</table>
 
 ---
 
-### 🤖 **TriageFlow AI** – Agentic Patient Triage System
-Multi-step reasoning agent for emergency room triage automation
+## 💻 Technical Skills
 
-- **Tech**: LangGraph · FastAPI · ReAct Agents · Flutter UI
-- **What it does**: Evaluates patient symptoms, applies safety-first deterministic rules, handles missing data and contradictions, outputs structured triage priority
-- **Architecture**: LangGraph-based agent with memoized reasoning, rule-based fallbacks, comprehensive logging
-- **Impact**: Demonstrates complex agentic workflows and production AI system design
-- **Repository**: [github.com/hasana157/patient-triage-agent](https://github.com/hasana157/patient-triage-agent)
-
----
-
-### 📡 **SentinelFlow** – IoT Sensor Anomaly Detection
-Unsupervised learning system for detecting sensor failures in IoT networks
-
-- **Tech**: Isolation Forest · Time-Series Analysis · Streamlit
-- **What it does**: Ingests multi-sensor data, detects anomalies in real-time, visualizes trends and alerts
-- **Impact**: Deployed dashboard for continuous monitoring; zero-false-positive threshold tuning
-- **Repository**: [github.com/hasana157/SentinelFlow-IoT-Anomaly-Detection](https://github.com/hasana157/SentinelFlow-IoT-Anomaly-Detection)
+| Category | Skills |
+|----------|--------|
+| **ML & AI** | Python · TensorFlow · Keras · YOLOv8 · OpenCV · Scikit-learn · LangGraph · RAG · Agents |
+| **Data & Viz** | Pandas · NumPy · Matplotlib · Streamlit |
+| **Backend & Web** | FastAPI · React · PHP 8 · MySQL · REST APIs · Git |
+| **Additional** | Java · SQL · Flutter |
 
 ---
 
-### 🌾 **Crop Yield Prediction System**
-Supervised learning for agricultural forecasting
+## 📚 All Repositories
 
-- **Tech**: Random Forest · ANN · Scikit-learn · Streamlit
-- **What it does**: Predicts crop yield from soil and weather data; compares RF vs ANN performance
-- **Metrics**: Evaluated on RMSE, MAE, R² across multiple growing seasons
-- **Repository**: [github.com/hasana157/Crop-Yield-Prediction-System](https://github.com/hasana157/Crop-Yield-Prediction-System)
-
----
-
-### 🌫️ **PM2.5 Air Quality Prediction**
-Time-series forecasting for air pollution levels
-
-- **Tech**: ANN · Linear Regression · Keras · Streamlit
-- **What it does**: Trains on historical air quality data, predicts PM2.5 levels 24–72 hours ahead
-- **Evaluation**: Cross-validation with seasonal split, RMSE tracking
-- **Repository**: [github.com/hasana157/air-quality-prediction-system-pm25](https://github.com/hasana157/air-quality-prediction-system-pm25)
+| Repository | Stack | Description |
+|---|---|---|
+| [machine-learning-internship-projects](https://github.com/hasana157/machine-learning-internship-projects) | Python · Scikit-learn | Supervised learning, NLP, and ML fundamentals |
+| [python-foundations-learning-journey](https://github.com/hasana157/python-foundations-learning-journey) | Python | Structured practice notebooks and exercises |
+| [Focusary](https://github.com/hasana157/Focusary-a-Pomodoro-app) | Java Swing | Productivity timer application |
 
 ---
 
-### 📚 **Study Abroad Assistant**
-Full-stack web application for student academic planning
+## 🏆 Certifications
 
-- **Tech**: React · PHP 8 · MySQL · REST APIs · Authentication
-- **What it does**: User authentication, university database, program matching, application tracking
-- **Architecture**: Separated frontend/backend with secure auth and relational data model
-- **Repository**: [github.com/hasana157/saa-project](https://github.com/hasana157/saa-project)
-
----
-
-## All Repositories
-
-- **[machine-learning-internship-projects](https://github.com/hasana157/machine-learning-internship-projects)** — Supervised learning, NLP, and ML fundamentals practice
-- **[python-foundations-learning-journey](https://github.com/hasana157/python-foundations-learning-journey)** — Structured Python notebooks and exercises
-- **[Focusary](https://github.com/hasana157/Focusary-a-Pomodoro-app)** — Java Swing productivity application
+- **Machine Learning Specialization** — DeepLearning.AI
+- **Deep Learning Specialization** — DeepLearning.AI
+- **Machine Learning with Python** — IBM / Coursera
+- **Data Analysis with Python** — IBM / Coursera
+- **Python for Data Science** — IBM / Coursera
+- **AI Essentials** — Google
+- **Agentic AI Bootcamp 2026** — NCAI & Quarkamp
 
 ---
 
-## Certifications
+## 🎯 Open To
 
-- **Machine Learning Specialization** – DeepLearning.AI
-- **Deep Learning Specialization** – DeepLearning.AI
-- **Machine Learning with Python** – IBM / Coursera
-- **Data Analysis with Python** – IBM / Coursera
-- **Python for Data Science** – IBM / Coursera
-- **AI Essentials** – Google
-- **Agentic AI Bootcamp 2026** – NCAI & Quarkamp
+- **AI/ML Internships** (Summer 2026)
+- **Agentic AI & Automation Roles**
+- **Technical Collaborations & Challenging Projects**
 
 ---
 
-## Looking For
+<div align="center">
 
-- AI/ML internship opportunities (Summer 2026)
-- Agentic AI and AI automation roles
-- Technical collaborations and challenging projects
+### Let's Connect
 
----
+[💼 LinkedIn](https://www.linkedin.com/in/hasana-zahid-605543310/) · [💻 GitHub](https://github.com/hasana157) · [📧 Email](mailto:hasanazahid842@gmail.com)
 
-**Connect:** [LinkedIn](https://www.linkedin.com/in/hasana-zahid-605543310/) · [Email](mailto:hasanazahid842@gmail.com) · [GitHub](https://github.com/hasana157)
+*Every project ships. Every metric was measured.*
+
+</div>
